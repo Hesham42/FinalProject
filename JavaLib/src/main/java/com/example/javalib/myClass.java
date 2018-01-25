@@ -3,7 +3,7 @@ package com.example.javalib;
 public class myClass {
 
 
-    public String tellJoke() {
+    public static String tellJoke() {
         return "My Lovely Guinness";
     }
 }
